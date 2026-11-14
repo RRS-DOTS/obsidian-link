@@ -14,7 +14,7 @@ https://rrs-dots.github.io/obsidian-link/?file=<path of the note>
 https://rrs-dots.github.io/obsidian-link/?file=01%20-%20Requirements%20Management%2FAuSy%20Remote%20Control%2F00%20-%20Epic%20Summary
 ```
 
-The link contains no vault name. Obsidian opens the note in the vault that is active and resolves the path like a wikilink. It therefore works for the team vault on its own and for the team vault mounted inside a personal vault. The browser asks once whether it may open Obsidian.
+The link contains no vault name. Obsidian opens the note in the vault that is active and resolves the path like a wikilink. The browser asks once whether it may open Obsidian.
 
 ## Scope
 
